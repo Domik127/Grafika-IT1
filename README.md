@@ -25,3 +25,19 @@
 * Převod z binární soustavy do šestnáctkové
 * Př: 100011011 - rozdělíme na čtyři bity
     * 1 0001 1011 = 11B
+# Test
+## Otázky
+* Co je to Rastrova a Vektorova grafika
+* Magenta + Cyan = Red
+* Red + Green = Blue
+* RGB (0,255,255) = Cyan
+* CMY (255,255,255) = Black
+* Co určuje barevná hloubka? (Počet barev, které může mít jeden pixel)
+* Magenta + Yellow =
+* CMY model se používá v tiskárnách
+* RGB model se používá ve většině elektronice
+* Který grafický rastrový souborový tormát dovoluje animace? (Gif)
+* Který formát nepatří do rastrovy grafiky? (Cdr)
+* Bílá RGB = (255,255,255)
+* Co je to komprese? (Šetření místa na úložišti - dělí se na ztrátovou a bezztrátovou)
+* Co je to DPI?
